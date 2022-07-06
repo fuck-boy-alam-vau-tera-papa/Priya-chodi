@@ -258,7 +258,7 @@ class Main:
 
 		print("â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€Ã— ")
 
-		print("%s [%s1%s]%s CRACK  FB IDZ 2009-11 {JUST NOW} %s(Md Alamgir -Clonning)"%(G,R,G,Y,B))
+		print("%s [%s1%s]%s CRACK  FB IDZ ALL Ok {JUST NOW} %s(Md Alamgir -Clonning)"%(G,R,G,Y,B))
 
 		tanya = input("    \033[0;97m(=Ã—>)\033[0;97m CHOOSE : ")
 
