@@ -129,7 +129,7 @@ def notice():
 
  
 
-	runtxt("\n\033[0;97m  2009 CLONNING JUST NOW OPEN ")
+	runtxt("\n\033[0;97m  ALL ok CLONNING JUST NOW OPEN ")
 
 	os.system('am start https://wa.me/+8801712034653?text=' )
 
