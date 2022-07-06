@@ -246,7 +246,7 @@ class Main:
 
     """)
 
-		print("%s [%sðŸ¥€%s] %sTOOL NAME : %s2009 Cloning Tool"%(G,R,G,B,G))
+		print("%s [%sðŸ¥€%s] %sTOOL NAME : %sall just now fast Tool"%(G,R,G,B,G))
 
 		print("%s [%sðŸ¥€%s] %sVERSION   : %s6"%(G,R,G,B,G))
 
